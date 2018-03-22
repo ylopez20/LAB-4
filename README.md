@@ -19,4 +19,6 @@ I would like you to complete what you can prior to next Wednesday's Lecture.
 #### Recursion
 
 * Write a program that takes an integer, and prints the factorial of the integer.  ex: 5 factorial is 5*4*3*2*1
-* Write a 
+* Write a program that will calculate the number of cannon balls in a trinagular pyramid that has the intered integer number of rows.
+(Note: this means that any layer of the pyramid has an equalateral triangle of cannonballs.  The top layer has 1 cannon ball, the one below that has 3, etc.)
+
